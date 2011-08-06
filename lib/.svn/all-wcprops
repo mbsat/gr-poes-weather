@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/Makefile.in
+END
+poesweather_mn1_hrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_mn1_hrpt.h
+END
+poesweather_mn1_hrpt_deframer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_mn1_hrpt_deframer.cc
+END
+poesweather_noaa_hrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_noaa_hrpt.h
+END
+poesweather_fy1_hrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_fy1_hrpt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/Makefile.am
+END
+poesweather_mn1_hrpt_deframer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_mn1_hrpt_deframer.h
+END
+poesweather_noaa_hrpt_deframer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_noaa_hrpt_deframer.cc
+END
+poesweather_fy1_hrpt_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_fy1_hrpt_decoder.cc
+END
+poesweather_fy1_hrpt_deframer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_fy1_hrpt_deframer.cc
+END
+poesweather_noaa_hrpt_deframer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_noaa_hrpt_deframer.h
+END
+poesweather_fy1_hrpt_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_fy1_hrpt_decoder.h
+END
+poesweather_fy1_hrpt_deframer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/lib/poesweather_fy1_hrpt_deframer.h
+END

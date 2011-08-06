@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/Makefile.am
+END
+poesweather_mn1_hrpt_deframer.i
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/poesweather_mn1_hrpt_deframer.i
+END
+Makefile.swig.gen
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/Makefile.swig.gen
+END
+poesweather.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/poesweather.i
+END
+poesweather_noaa_hrpt_deframer.i
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/poesweather_noaa_hrpt_deframer.i
+END
+poesweather_fy1_hrpt_decoder.i
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/poesweather_fy1_hrpt_decoder.i
+END
+poesweather_fy1_hrpt_deframer.i
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/swig/poesweather_fy1_hrpt_deframer.i
+END

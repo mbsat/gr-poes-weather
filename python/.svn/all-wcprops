@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/python
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/python/Makefile.in
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/python/__init__.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/python/Makefile.am
+END

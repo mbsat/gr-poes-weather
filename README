@@ -1,0 +1,42 @@
+#
+# Copyright 2005,2006,2009 Free Software Foundation, Inc.
+# 
+# This file is part of GNU Radio
+# 
+# GNU Radio is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3, or (at your option)
+# any later version.
+# 
+# GNU Radio is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License
+# along with GNU Radio; see the file COPYING.  If not, write to
+# the Free Software Foundation, Inc., 51 Franklin Street,
+# Boston, MA 02110-1301, USA.
+# 
+
+gr-poes-weather GNURadio package contain few deframer and decoder block's for weather satellite telemetry reception 
+I have used Patrik Tast package and add few new blocks, for example CADU deframing for MetOp satellite or universally 
+deframer with setable frame length for NOAA HRPT.
+ 
+
+This package requires that gnuradio-core is already installed.
+It also depends on some GNU Radio prerequisites, such as Boost and
+cppunit.
+
+
+To build and install use these commands:
+  .. uninstall and then backup the folder with old gr-poes-weather package when present on your machine
+  
+  .. cd to new gr-poes-weather directory and do next steps
+  
+  $ ./bootstrap
+  $ ./configure
+  $ make
+  $ make check
+  $ make install
+  $ ldconfig

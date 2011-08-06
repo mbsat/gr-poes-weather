@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/FY1/nogui
+END
+fy1_hrpt_bb_to_frames_nogui.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/gnuradio/!svn/ver/17/gr-poes-weather/trunk/apps/FY1/nogui/fy1_hrpt_bb_to_frames_nogui.py
+END
+usrp_rx_fy1_hrpt_nogui.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/gnuradio/!svn/ver/17/gr-poes-weather/trunk/apps/FY1/nogui/usrp_rx_fy1_hrpt_nogui.py
+END
+fy1_hrpt_bb_to_frames_nogui.grc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/apps/FY1/nogui/fy1_hrpt_bb_to_frames_nogui.grc
+END
+usrp_rx_fy1_bb_hrpt_nogui.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/FY1/nogui/usrp_rx_fy1_bb_hrpt_nogui.py
+END
+usrp_rx_fy1_hrpt_nogui.grc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/gnuradio/!svn/ver/17/gr-poes-weather/trunk/apps/FY1/nogui/usrp_rx_fy1_hrpt_nogui.grc
+END
+usrp_rx_fy1_bb_hrpt_nogui.grc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/gnuradio/!svn/ver/17/gr-poes-weather/trunk/apps/FY1/nogui/usrp_rx_fy1_bb_hrpt_nogui.grc
+END

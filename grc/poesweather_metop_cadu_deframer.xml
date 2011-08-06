@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<block>
+  <name>Metop CADU Deframer</name>
+  <key>poesweather_metop_cadu_deframer</key>
+  <category>POES Weather</category>
+  <import>import poesweather</import>
+  <make>poesweather.metop_cadu_deframer($sync_check, $frame_length, $insync_after, $outsync_after)</make>
+
+    
+  <param>
+    <name>Sync check</name>
+    <key>sync_check</key>
+    <value>True</value>
+    <type>bool</type>
+    <option>
+	<name>True</name>
+	<key>True</key>
+    </option>
+    <option>
+	<name>False</name>
+	<key>False</key>
+    </option>
+  </param>
+
+
+  <param>
+    <name>Length of frame</name>
+    <key>frame_length</key>
+    <value>1024</value>
+    <type>int</type>
+    <option>
+	<name>CADU 1024bytes </name>
+	<key>1024</key>
+    </option>
+  </param>
+
+  <param>
+    <name>In sync after</name>
+    <key>insync_after</key>
+    <value>5</value>
+    <type>int</type>
+    <option>
+	<name>5 valid frames</name>
+	<key>5</key>
+    </option>
+    <option>
+	<name>10 valid frames</name>
+	<key>10</key>
+    </option>
+  </param>
+
+  <param>
+    <name>Out of sync after</name>
+    <key>outsync_after</key>
+    <value>5</value>
+    <type>int</type>
+    <option>
+	<name>5 invalid frames</name>
+	<key>5</key>
+    </option>
+    <option>
+	<name>10 invalid frames</name>
+	<key>10</key>
+    </option>
+  </param>
+
+
+  <sink>
+    <name>in</name>
+    <type>byte</type>
+  </sink>
+  <source>
+    <name>out</name>
+    <type>byte</type>
+  </source>
+
+  <doc>
+MetOp and other sat's telemetry deframer block. 
+Accept only NRZ encoded input. Input bits can be also inverted.
+
+Useful for deframing AHRPT telemetry from MetOp, AHRPT from Fengyun 3, LRIT from GOES... and many more.  
+ 
+Sync on 1ACFFC1D marker. 
+
+Sync check : 
+True  >> check for valid sync marker in every frame
+False >> don't check, stay in sync
+
+Length of frame : frame length in octets (bytes), sync marker included! 
+
+In sync after : how many frames must be valid for going to SYNC state.
+
+Out sync after :  how many frames must be invalid for going to OUT OF SYNC state.
+
+
+
+  </doc>
+</block>

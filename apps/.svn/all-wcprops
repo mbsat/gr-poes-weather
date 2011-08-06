@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/apps/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/apps/Makefile.am
+END

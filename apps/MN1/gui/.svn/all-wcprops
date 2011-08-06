@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/MN1/gui
+END
+mn1_hrpt_bb_to_frames.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/MN1/gui/mn1_hrpt_bb_to_frames.py
+END
+usrp_rx_mn1_hrpt.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/MN1/gui/usrp_rx_mn1_hrpt.py
+END
+mn1_hrpt_bb_to_frames.grc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/MN1/gui/mn1_hrpt_bb_to_frames.grc
+END
+usrp_rx_mn1_bb_hrpt.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/gnuradio/!svn/ver/18/gr-poes-weather/trunk/apps/MN1/gui/usrp_rx_mn1_bb_hrpt.py
+END
+usrp_rx_mn1_hrpt.grc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/apps/MN1/gui/usrp_rx_mn1_hrpt.grc
+END
+usrp_rx_mn1_bb_hrpt.grc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/apps/MN1/gui/usrp_rx_mn1_bb_hrpt.grc
+END

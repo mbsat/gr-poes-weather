@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/Makefile.in
+END
+gr_sysv_shm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_sysv_shm.m4
+END
+gr_check_createfilemapping.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_check_createfilemapping.m4
+END
+gr_doxygen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_doxygen.m4
+END
+gr_lib64.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_lib64.m4
+END
+ax_boost_regex.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_regex.m4
+END
+gr_set_md_cpu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_set_md_cpu.m4
+END
+gr_git.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_git.m4
+END
+usrp_fusb_tech.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/usrp_fusb_tech.m4
+END
+gr_version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_version.m4
+END
+ax_boost_python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_python.m4
+END
+ax_boost_program_options.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_program_options.m4
+END
+mkstemp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/mkstemp.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/pkg.m4
+END
+cppunit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/cppunit.m4
+END
+ax_boost_filesystem.m4
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_filesystem.m4
+END
+lf_cxx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/lf_cxx.m4
+END
+usrp_sdcc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/usrp_sdcc.m4
+END
+gr_no_undefined.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_no_undefined.m4
+END
+onceonly.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/onceonly.m4
+END
+usrp_libusb.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/usrp_libusb.m4
+END
+gr_require_mc4020.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_require_mc4020.m4
+END
+ax_boost_unit_test_framework.m4
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_unit_test_framework.m4
+END
+ax_boost_date_time.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_date_time.m4
+END
+lf_x11.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/lf_x11.m4
+END
+gr_scripting.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_scripting.m4
+END
+bnv_have_qt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/bnv_have_qt.m4
+END
+gr_swig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_swig.m4
+END
+ax_boost_wserialization.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_wserialization.m4
+END
+gr_fortran.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_fortran.m4
+END
+ax_boost_iostreams.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_iostreams.m4
+END
+gr_gprof.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_gprof.m4
+END
+ax_boost_thread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_thread.m4
+END
+lf_cc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/lf_cc.m4
+END
+ax_boost_base.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_base.m4
+END
+gr_python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_python.m4
+END
+lf_warnings.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/lf_warnings.m4
+END
+gr_pwin32.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_pwin32.m4
+END
+ax_boost_serialization.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_serialization.m4
+END
+gr_check_usrp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_check_usrp.m4
+END
+gr_standalone.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_standalone.m4
+END
+gr_omnithread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_omnithread.m4
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/acx_pthread.m4
+END
+ax_boost_system.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_system.m4
+END
+gr_subversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_subversion.m4
+END
+ax_boost_test_exec_monitor.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_test_exec_monitor.m4
+END
+gr_check_mc4020.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_check_mc4020.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/Makefile.am
+END
+gr_check_shm_open.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_check_shm_open.m4
+END
+gr_libgnuradio_core_extra_ldflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/gr_libgnuradio_core_extra_ldflags.m4
+END
+ax_boost_signals.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/gnuradio/!svn/ver/16/gr-poes-weather/trunk/config/ax_boost_signals.m4
+END
